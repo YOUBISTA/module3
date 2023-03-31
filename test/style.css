@@ -1,0 +1,32 @@
+*{ 
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+
+ font-size: 30px;
+ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ font-weight: 600;
+
+
+}
+.container{ 
+ width: 100%;
+	display: flex;
+	flex-wrap: nowrap;
+
+	 flex-direction: column;
+	align-content: center;
+ justify-content: space-around;
+ padding: 5px;
+ margin-top: 60px;
+align-items: center;
+
+
+}
+.container span{ 
+ color: red;
+ font-weight: 700;
+ 
+
+
+}
