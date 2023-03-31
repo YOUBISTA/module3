@@ -4,4 +4,4 @@ function speak_hello(name) {
      
     console.log(`${speakWord}  ${name}`);
   }
-  export { speak_hello};
+  export {speak_hello};
